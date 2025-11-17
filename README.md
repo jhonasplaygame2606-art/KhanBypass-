@@ -28,3 +28,4 @@ javascript:fetch("https://cdn.jsdelivr.net/gh/mzzvxm/KhanBypass@ce06ad5/Script.j
 4️⃣ Execute o script e aproveite!  
 
 ⚠️ **Se estiver no celular, ative o "Modo Computador" no navegador para funcionar corretamente!**  
+README.md
